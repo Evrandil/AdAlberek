@@ -1,0 +1,1 @@
+Polecam Obsidian: https://obsidian.md (może być niezbędny do w ogóle przeczytania)
