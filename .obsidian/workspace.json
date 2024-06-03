@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "788c18ed79150aca",
+        "id": "9c4bee979761e9c9",
         "type": "tabs",
         "children": [
           {
-            "id": "ffa0958081afac63",
+            "id": "39f675f6203e4925",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Ekspresja.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Ekspresja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Ekspresja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Ekspresja.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffa0958081afac63",
+  "active": "39f675f6203e4925",
   "lastOpenFiles": [
-    "Ekspresja.md",
-    "README.md",
     "Cele.md",
+    "README.md",
+    "Ekspresja.md",
     "Historia.md",
     "Struktura roku.md",
     "Styl Kraala.md",

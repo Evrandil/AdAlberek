@@ -3,7 +3,7 @@
 1. What is good fire?
 2. Why good fire?
 3. Why good fire make?
-
+\(Te pytania jeszcze rozwinę tylko muszę pogadać z bratem do czego się później w nich odnosił\)
 
 
 # Naturalny entuzjazm
