@@ -13,7 +13,11 @@ Jak chcesz same notatki (żeby zsynchronizować będzie trzeba ponownie pobrać)
 Nie mam najmniejszego pojęcia jak zrobić żeby Git na Windowsie się synchronizował (pewnie trzeba osobno zainstalować aplikację GitHub Desktop albo coś)
 
 Na Linuxie
+
 	git clone https://github.com/Evrandil/AdAlberek
+
 I za każdym razem zanim się otworzy po wejściu w folder
+
 	git pull
+
 I potem otworzyć w obsidianie
