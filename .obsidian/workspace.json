@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "da2ca451731f87f9",
+        "id": "788c18ed79150aca",
         "type": "tabs",
         "children": [
           {
-            "id": "4a67851830b96e63",
+            "id": "936ed4741521af4b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ekspresja.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ekspresja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ekspresja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ekspresja.md"
+              }
             }
           }
         ]
@@ -138,6 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a67851830b96e63",
-  "lastOpenFiles": []
+  "active": "936ed4741521af4b",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Ekspresja.md",
+    "Cele.md",
+    "Historia.md",
+    "Struktura roku.md",
+    "Styl Kraala.md",
+    "Organizacja Obozu.md",
+    "Wymiary.md",
+    "Motory.md",
+    "Przyboczny.md",
+    "Wielka Gra.md"
+  ]
 }
