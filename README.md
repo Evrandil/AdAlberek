@@ -1,4 +1,4 @@
-Polecam Obsidian: https://obsidian.md (może być niezbędny do w ogóle przeczytania)
+Polecam Obsidian: https://obsidian.md (może być niezbędny do w ogóle zobaczenia notatek w formie wygodnej do przeczytania)
 
 
 # Dla niezorientowanych w GitHubie
