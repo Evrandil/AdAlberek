@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "888446ee7fbe014e",
+        "id": "0e072626de3d5b69",
         "type": "tabs",
         "children": [
           {
-            "id": "729e60be1ad0267b",
+            "id": "9870fbeadd93860f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "729e60be1ad0267b",
+  "active": "9870fbeadd93860f",
   "lastOpenFiles": [
+    "Motory/Motory.canvas",
+    "Motory/System zastępowy.md",
+    "Motory/Rad system.md",
+    "Motory/Odpowiedzialność.md",
+    "Motory/Motory.md",
+    "Motory/Interes.md",
+    "Motory/Działanie.md",
+    "Motory/System zastępowy.md~",
+    "Motory/Rad system.md~",
+    "Motory/Odpowiedzialność.md~",
+    "Motory/Interes.md~",
+    "Motory/Działanie.md~",
+    "Motory/Motory.md~",
+    "Motory/Rad systemc.md",
+    "Motory",
     "Cele/Cele.canvas",
     "Wymiary/Wymiary.canvas",
     "BHP/BHP.canvas",
@@ -153,13 +168,6 @@
     "BHP/BHP.md~",
     "BHP/Zagrożenia.md~",
     "BHP.md",
-    "BHP",
-    "BHP.md~",
-    "Wymiary/Zastęp.md~",
-    "Wymiary/Przyrzeczenie.md~",
-    "Wymiary/Przyroda.md~",
-    "Wymiary/Prawo.md~",
-    "Wymiary/LSWO.md~",
     "Wymiary/Zastęp.md",
     "Wymiary/Przyrzeczenie.md",
     "Wymiary/LSWO.md",
@@ -170,13 +178,6 @@
     "Cele/Rozwój fizyczny.md",
     "Cele/Cele.md",
     "Cele/Bóg.md",
-    "Cele.md",
-    "Coś/kljsadf.md",
-    "Bóg.md",
-    "Zmysł praktyczny.md",
-    "Motory.md",
-    "Służba.md",
-    "Charakter.md",
-    "Historia.md"
+    "Cele.md"
   ]
 }

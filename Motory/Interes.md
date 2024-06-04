@@ -1,0 +1,5 @@
+|> Pasje
+|> Marzenia
+|> Hobby
+|> Potrzeby
+
