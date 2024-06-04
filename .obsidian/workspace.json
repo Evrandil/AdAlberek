@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae36d6f2a6b25baf",
+            "id": "c5b351bee8a0c11e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wymiary.md",
-                "mode": "source",
+                "file": "Motory.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wymiary.md",
+                "file": "Motory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wymiary.md",
+                "file": "Motory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wymiary.md"
+                "file": "Motory.md"
               }
             }
           }
@@ -146,14 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae36d6f2a6b25baf",
+  "active": "c5b351bee8a0c11e",
   "lastOpenFiles": [
-    "Motory.md",
-    "Wymiary.md",
-    "Nabory.md",
-    "Cele.md",
+    "README.md~",
     "Historia.md",
     "Ekspresja.md",
+    "Ekspresja.md~",
+    "Cele.md",
+    "BHP.md~",
+    "BHP.md",
+    "Wymiary.md~",
+    "Cele.md~",
+    "Motory.md~",
+    "Skrótowce.md",
+    "Wymiary.md",
+    "Motory.md",
+    "Nabory.md",
     "README.md",
     "Struktura roku.md",
     "Styl Kraala.md",
