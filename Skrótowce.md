@@ -13,3 +13,6 @@ AE <- Apel Ewangeliczny
 BL <- Biwak Listopadowy
 HM <- Harce Majowe
 OL <- Obóz Letni
+PŚ <- Pismo Święt
+PP <- Pierwsza Pomoc
+KPP <- Kwalifikowana Pierwsza Pomoc

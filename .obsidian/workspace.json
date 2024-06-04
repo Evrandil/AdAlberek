@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Motory.md",
+                "file": "BHP/Ogólne zasady.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Motory.md",
+                "file": "BHP/Ogólne zasady.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Motory.md",
+                "file": "BHP/Ogólne zasady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Motory.md"
+                "file": "BHP/Ogólne zasady.md"
               }
             }
           }
@@ -148,25 +148,40 @@
   },
   "active": "c5b351bee8a0c11e",
   "lastOpenFiles": [
-    "README.md~",
-    "Historia.md",
-    "Ekspresja.md",
-    "Ekspresja.md~",
-    "Cele.md",
-    "BHP.md~",
+    "BHP/Ogólne zasady.md~",
+    "BHP/Zagrożenia.md",
+    "BHP/Ogólne zasady.md",
+    "BHP/BHP.md",
+    "Wymiary/Wymiary.md",
+    "BHP/BHP.md~",
+    "BHP/Zagrożenia.md~",
     "BHP.md",
-    "Wymiary.md~",
-    "Cele.md~",
-    "Motory.md~",
-    "Skrótowce.md",
-    "Wymiary.md",
+    "BHP",
+    "BHP.md~",
+    "Wymiary/Zastęp.md~",
+    "Wymiary/Przyrzeczenie.md~",
+    "Wymiary/Przyroda.md~",
+    "Wymiary/Prawo.md~",
+    "Wymiary/LSWO.md~",
+    "Wymiary/Zastęp.md",
+    "Wymiary/Przyrzeczenie.md",
+    "Wymiary/Przyroda.md",
+    "Wymiary/Prawo.md",
+    "Wymiary/LSWO.md",
+    "Wymiary/Europa.md",
+    "Cele/Charakter.md",
+    "Cele/Zmysł praktyczny.md",
+    "Cele/Służba.md",
+    "Cele/Rozwój fizyczny.md",
+    "Cele/Cele.md",
+    "Cele/Bóg.md",
+    "Cele.md",
+    "Coś/kljsadf.md",
+    "Bóg.md",
+    "Zmysł praktyczny.md",
     "Motory.md",
-    "Nabory.md",
-    "README.md",
-    "Struktura roku.md",
-    "Styl Kraala.md",
-    "Organizacja Obozu.md",
-    "Przyboczny.md",
-    "Wielka Gra.md"
+    "Służba.md",
+    "Charakter.md",
+    "Historia.md"
   ]
 }
