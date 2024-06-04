@@ -11,8 +11,12 @@
             "id": "9870fbeadd93860f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ekspresja.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ekspresja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ekspresja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ekspresja.md"
+              }
             }
           }
         ]
@@ -140,6 +148,10 @@
   },
   "active": "9870fbeadd93860f",
   "lastOpenFiles": [
+    "Nabory.md",
+    "Ekspresja.md",
+    "Historia.md",
+    "Organizacja Obozu.md",
     "Motory/Motory.canvas",
     "Motory/System zastępowy.md",
     "Motory/Rad system.md",
@@ -175,9 +187,6 @@
     "Cele/Charakter.md",
     "Cele/Zmysł praktyczny.md",
     "Cele/Służba.md",
-    "Cele/Rozwój fizyczny.md",
-    "Cele/Cele.md",
-    "Cele/Bóg.md",
-    "Cele.md"
+    "Cele/Rozwój fizyczny.md"
   ]
 }
