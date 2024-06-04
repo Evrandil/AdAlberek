@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9c4bee979761e9c9",
+        "id": "888446ee7fbe014e",
         "type": "tabs",
         "children": [
           {
-            "id": "c5b351bee8a0c11e",
+            "id": "729e60be1ad0267b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BHP/Ogólne zasady.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BHP/Ogólne zasady.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BHP/Ogólne zasady.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BHP/Ogólne zasady.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5b351bee8a0c11e",
+  "active": "729e60be1ad0267b",
   "lastOpenFiles": [
+    "Cele/Cele.canvas",
+    "Wymiary/Wymiary.canvas",
+    "BHP/BHP.canvas",
+    "BHP/BHP.md",
+    "Wymiary/Prawo.md",
+    "Wymiary/Przyroda.md",
+    "BHP/Ogólne zasady.md",
     "BHP/Ogólne zasady.md~",
     "BHP/Zagrożenia.md",
-    "BHP/Ogólne zasady.md",
-    "BHP/BHP.md",
     "Wymiary/Wymiary.md",
     "BHP/BHP.md~",
     "BHP/Zagrożenia.md~",
@@ -165,8 +162,6 @@
     "Wymiary/LSWO.md~",
     "Wymiary/Zastęp.md",
     "Wymiary/Przyrzeczenie.md",
-    "Wymiary/Przyroda.md",
-    "Wymiary/Prawo.md",
     "Wymiary/LSWO.md",
     "Wymiary/Europa.md",
     "Cele/Charakter.md",

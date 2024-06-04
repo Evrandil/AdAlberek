@@ -1,4 +1,4 @@
-# Braterstwo międzynarodowe
+Braterstwo międzynarodowe
     |> Świadomość wspólnych korzeni chrześcijańskich
     |> Jesteśmy tacy sami, wszyscy ostatecznie jesteśmy ludźmi
 

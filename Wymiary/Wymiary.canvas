@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"c2716f172b987b21","type":"file","file":"Wymiary/Przyroda.md","x":-180,"y":-364,"width":800,"height":244},
+		{"id":"9e5bfd4f14d49e16","type":"file","file":"Wymiary/Wymiary.md","x":-880,"y":-364,"width":660,"height":124},
+		{"id":"e30994cc42618b3c","type":"file","file":"Wymiary/Zastęp.md","x":-880,"y":-204,"width":660,"height":304},
+		{"id":"ac6e8882d65cc989","type":"file","file":"Wymiary/Przyrzeczenie.md","x":-880,"y":136,"width":660,"height":245},
+		{"id":"3db308890ea7ffc9","type":"file","file":"Wymiary/Europa.md","x":-880,"y":420,"width":660,"height":240},
+		{"id":"a4b46f662db4bb32","type":"file","file":"Wymiary/LSWO.md","x":-180,"y":-81,"width":800,"height":340},
+		{"id":"b46c26e4dcadf562","type":"file","file":"Wymiary/Prawo.md","x":-180,"y":300,"width":1020,"height":320}
+	],
+	"edges":[]
+}

@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"39fa630074116221","x":-701,"y":-342,"width":400,"height":142,"type":"file","file":"BHP/BHP.md"},
+		{"id":"f2894fa4ed1b0993","x":-701,"y":-160,"width":400,"height":500,"type":"file","file":"BHP/Ogólne zasady.md"},
+		{"id":"ccc70e9bdd06b010","x":-260,"y":-342,"width":1180,"height":362,"type":"file","file":"BHP/Zagrożenia.md"}
+	],
+	"edges":[]
+}

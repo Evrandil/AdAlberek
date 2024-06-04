@@ -1,3 +1,4 @@
+PH
     |> Żyjemy wg. skonkretyzowanego prawa
     |> Jest sformułowane pozytywnie \(wiedząc, kim harcerz nie jest nadal nie wiemy, kim harcerz jest\)
     |> Określa ideał harcerski

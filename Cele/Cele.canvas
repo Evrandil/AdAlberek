@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6b1c4a285d293dc9","type":"file","file":"Cele/Cele.md","x":-680,"y":-480,"width":820,"height":200},
+		{"id":"ced259ddf45e1559","type":"file","file":"Cele/Bóg.md","x":-680,"y":-247,"width":400,"height":620},
+		{"id":"d8a858f1e42a302e","type":"file","file":"Cele/Zmysł praktyczny.md","x":-260,"y":-247,"width":380,"height":620},
+		{"id":"44c3b6244ed0c899","type":"file","file":"Cele/Rozwój fizyczny.md","x":180,"y":-470,"width":400,"height":181},
+		{"id":"d46de1ce2c012704","type":"file","file":"Cele/Charakter.md","x":620,"y":-480,"width":460,"height":340},
+		{"id":"61106796c73e548c","type":"file","file":"Cele/Służba.md","x":160,"y":-247,"width":440,"height":447}
+	],
+	"edges":[]
+}
