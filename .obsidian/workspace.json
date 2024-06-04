@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39f675f6203e4925",
+            "id": "ae36d6f2a6b25baf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ekspresja.md",
+                "file": "Wymiary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ekspresja.md",
+                "file": "Wymiary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ekspresja.md",
+                "file": "Wymiary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ekspresja.md"
+                "file": "Wymiary.md"
               }
             }
           }
@@ -146,17 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39f675f6203e4925",
+  "active": "ae36d6f2a6b25baf",
   "lastOpenFiles": [
+    "Motory.md",
+    "Wymiary.md",
+    "Nabory.md",
     "Cele.md",
-    "README.md",
-    "Ekspresja.md",
     "Historia.md",
+    "Ekspresja.md",
+    "README.md",
     "Struktura roku.md",
     "Styl Kraala.md",
     "Organizacja Obozu.md",
-    "Wymiary.md",
-    "Motory.md",
     "Przyboczny.md",
     "Wielka Gra.md"
   ]
