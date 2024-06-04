@@ -2,7 +2,7 @@ Polecam Obsidian: https://obsidian.md (może być niezbędny do w ogóle zobacze
 
 
 # Dla niezorientowanych w GitHubie
-Jak chcesz same notatki (żeby zsynchronizować będzie trzeba ponownie pobrać)
+Jak chcesz same notatki bez możliwości zaktualizowania (żeby zsynchronizować będzie trzeba ponownie pobrać i zamienić pliki)
 1. Pobierasz pliki (klikasz `<>code` i `Download ZIP`)
 2. Wyodrębniasz pliki
 3. Otwierasz w Obsidianie (↑)
