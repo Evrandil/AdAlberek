@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ekspresja.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ekspresja.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ekspresja.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ekspresja.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,45 +148,45 @@
   },
   "active": "9870fbeadd93860f",
   "lastOpenFiles": [
+    "Przyboczny/Rozkmina.md~",
+    "Przyboczny/Rozkmina.md",
+    "Przyboczny/Bezpośrednia praca wychowawcza.md~",
+    "Przyboczny/Bezpośrednia praca wychowawcza.md",
+    "4913",
+    "Przyboczny/Formacja.md~",
+    "Przyboczny/Formacja.md",
+    "Przyboczny/Przyboczny.md~",
+    "Przyboczny.md",
+    "Przyboczny/Przyboczny.md",
+    "Przyboczny",
+    "README.md",
+    "Wielka Gra.md",
+    "Styl Kraala.md",
+    "Struktura roku.md",
+    "Skrótowce.md",
+    "Organizacja Obozu.md",
     "Nabory.md",
+    "Ekspresja/Ekspresja.md",
+    "Ekspresja/Ekspresja.md~",
+    "Ekspresja/Why good fire?.md",
+    "Ekspresja/Why good fire?.md~",
+    "Ekspresja/Ważne elementy.md~",
+    "Ekspresja/Klimat.md~",
+    "Ekspresja/Jak podnieść poziom ekspresji.md~",
+    "Ekspresja/Klimat.md",
+    "Ekspresja/Typy ognisk.md",
+    "Ekspresja/Jak podnieść poziom ekspresji.md",
+    "Ekspresja/Ważne elementy.md",
     "Ekspresja.md",
     "Historia.md",
-    "Organizacja Obozu.md",
     "Motory/Motory.canvas",
     "Motory/System zastępowy.md",
     "Motory/Rad system.md",
     "Motory/Odpowiedzialność.md",
     "Motory/Motory.md",
     "Motory/Interes.md",
-    "Motory/Działanie.md",
-    "Motory/System zastępowy.md~",
-    "Motory/Rad system.md~",
-    "Motory/Odpowiedzialność.md~",
-    "Motory/Interes.md~",
-    "Motory/Działanie.md~",
-    "Motory/Motory.md~",
-    "Motory/Rad systemc.md",
-    "Motory",
     "Cele/Cele.canvas",
     "Wymiary/Wymiary.canvas",
-    "BHP/BHP.canvas",
-    "BHP/BHP.md",
-    "Wymiary/Prawo.md",
-    "Wymiary/Przyroda.md",
-    "BHP/Ogólne zasady.md",
-    "BHP/Ogólne zasady.md~",
-    "BHP/Zagrożenia.md",
-    "Wymiary/Wymiary.md",
-    "BHP/BHP.md~",
-    "BHP/Zagrożenia.md~",
-    "BHP.md",
-    "Wymiary/Zastęp.md",
-    "Wymiary/Przyrzeczenie.md",
-    "Wymiary/LSWO.md",
-    "Wymiary/Europa.md",
-    "Cele/Charakter.md",
-    "Cele/Zmysł praktyczny.md",
-    "Cele/Służba.md",
-    "Cele/Rozwój fizyczny.md"
+    "BHP/BHP.canvas"
   ]
 }

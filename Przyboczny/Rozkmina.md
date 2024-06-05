@@ -1,0 +1,2 @@
+|> Planowanie
+|> Wymyślanie
