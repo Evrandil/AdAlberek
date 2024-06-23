@@ -1,9 +1,8 @@
 	Życie tu i teraz -> powiew świerzości
 
-1. What is good fire?
-2. [[Why good fire?]]
-3. Why good fire make?
-\(Te pytania jeszcze rozwinę tylko muszę pogadać z bratem do czego się później w nich odnosił bo niezbyt wyłapałem\)
+1. ? \(Cczym jest dobra ekspresja?\)
+2. [[Why good fire?]] \(Co nam daje dobre ognisko?\)
+3. Why good fire make? \(Jak robić/podnosić ekspresję?\)
 
 
 	Piękna, prosta i radosna

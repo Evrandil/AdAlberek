@@ -16,4 +16,4 @@ OL <- Obóz Letni
 PŚ <- Pismo Święt
 PP <- Pierwsza Pomoc
 KPP <- Kwalifikowana Pierwsza Pomoc
-OD <-Opiekun Drogi
+OD <- Opiekun Drogi
