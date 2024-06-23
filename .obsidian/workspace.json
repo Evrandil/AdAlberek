@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Wielka Gra.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Wielka Gra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Wielka Gra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Wielka Gra.md"
               }
             }
           }
@@ -148,6 +148,16 @@
   },
   "active": "9870fbeadd93860f",
   "lastOpenFiles": [
+    "Styl Kraala.md",
+    "Struktura roku.md",
+    "Skrótowce.md",
+    "README.md",
+    "Organizacja Obozu.md",
+    "Nabory.md",
+    "Historia.md",
+    "Wymiary/Wymiary.canvas",
+    "Motory/Motory.canvas",
+    "Cele/Cele.canvas",
     "Przyboczny/Rozkmina.md~",
     "Przyboczny/Rozkmina.md",
     "Przyboczny/Bezpośrednia praca wychowawcza.md~",
@@ -159,34 +169,23 @@
     "Przyboczny.md",
     "Przyboczny/Przyboczny.md",
     "Przyboczny",
-    "README.md",
     "Wielka Gra.md",
-    "Styl Kraala.md",
-    "Struktura roku.md",
-    "Skrótowce.md",
-    "Organizacja Obozu.md",
-    "Nabory.md",
     "Ekspresja/Ekspresja.md",
     "Ekspresja/Ekspresja.md~",
     "Ekspresja/Why good fire?.md",
     "Ekspresja/Why good fire?.md~",
     "Ekspresja/Ważne elementy.md~",
     "Ekspresja/Klimat.md~",
-    "Ekspresja/Jak podnieść poziom ekspresji.md~",
     "Ekspresja/Klimat.md",
     "Ekspresja/Typy ognisk.md",
     "Ekspresja/Jak podnieść poziom ekspresji.md",
     "Ekspresja/Ważne elementy.md",
     "Ekspresja.md",
-    "Historia.md",
-    "Motory/Motory.canvas",
     "Motory/System zastępowy.md",
     "Motory/Rad system.md",
     "Motory/Odpowiedzialność.md",
     "Motory/Motory.md",
     "Motory/Interes.md",
-    "Cele/Cele.canvas",
-    "Wymiary/Wymiary.canvas",
     "BHP/BHP.canvas"
   ]
 }
