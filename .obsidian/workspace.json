@@ -11,12 +11,17 @@
             "id": "9870fbeadd93860f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Wielka Gra.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Wymiary/Wymiary.canvas",
+                "viewState": {
+                  "x": -20,
+                  "y": 148,
+                  "zoom": -0.2636445538830191
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Wymiary"
             }
           }
         ]
@@ -39,7 +44,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +61,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +71,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wielka Gra.md",
+                "file": "Wymiary/Wymiary.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +104,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Wymiary"
             }
           },
           {
@@ -102,10 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wielka Gra.md",
+                "file": "Wymiary/Wymiary.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Wymiary"
             }
           },
           {
@@ -116,7 +131,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wielka Gra.md"
-              }
+                "file": "Wymiary/Wymiary.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Wymiary"
             }
           }
         ]
@@ -148,18 +167,21 @@
   },
   "active": "9870fbeadd93860f",
   "lastOpenFiles": [
+    "Cele/Cele.canvas",
+    "Wymiary/Wymiary.canvas",
+    "Wymiary/Wymiary.md",
+    "Motory/Motory.canvas",
+    "Motory/Motory.md",
+    "Skrótowce.md",
+    "Wielka Gra.md",
     "Miasta.md",
     "README.md",
     "Styl Kraala.md",
     "Struktura roku.md",
-    "Skrótowce.md",
     "README.md",
     "Organizacja Obozu.md",
     "Nabory.md",
     "Historia.md",
-    "Wymiary/Wymiary.canvas",
-    "Motory/Motory.canvas",
-    "Cele/Cele.canvas",
     "Przyboczny/Rozkmina.md~",
     "Przyboczny/Rozkmina.md",
     "Przyboczny/Bezpośrednia praca wychowawcza.md~",
@@ -171,7 +193,6 @@
     "Przyboczny.md",
     "Przyboczny/Przyboczny.md",
     "Przyboczny",
-    "Wielka Gra.md",
     "Ekspresja/Ekspresja.md",
     "Ekspresja/Ekspresja.md~",
     "Ekspresja/Why good fire?.md",
@@ -184,10 +205,6 @@
     "Ekspresja/Ważne elementy.md",
     "Ekspresja.md",
     "Motory/System zastępowy.md",
-    "Motory/Rad system.md",
-    "Motory/Odpowiedzialność.md",
-    "Motory/Motory.md",
-    "Motory/Interes.md",
     "BHP/BHP.canvas"
   ]
 }

@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"08cb4fd6450315aa","x":-900,"y":-460,"width":620,"height":100,"type":"file","file":"Motory/Motory.md"},
-		{"id":"854d965efcc88341","x":-400,"y":-260,"width":540,"height":360,"type":"file","file":"Motory/System zastępowy.md"},
-		{"id":"dc4249d894cb0b69","x":-900,"y":-340,"width":460,"height":300,"type":"file","file":"Motory/Działanie.md"},
-		{"id":"c5e9c0befba1cf96","x":-900,"y":0,"width":460,"height":180,"type":"file","file":"Motory/Odpowiedzialność.md"},
-		{"id":"facf1af4f485b583","x":-260,"y":-460,"width":400,"height":174,"type":"file","file":"Motory/Interes.md"},
-		{"id":"c9803143f46dd219","x":-434,"y":140,"width":574,"height":160,"type":"file","file":"Motory/Rad system.md"}
+		{"id":"854d965efcc88341","type":"file","file":"Motory/System zastępowy.md","x":-400,"y":-260,"width":540,"height":360},
+		{"id":"dc4249d894cb0b69","type":"file","file":"Motory/Działanie.md","x":-900,"y":-340,"width":460,"height":300},
+		{"id":"c5e9c0befba1cf96","type":"file","file":"Motory/Odpowiedzialność.md","x":-900,"y":0,"width":460,"height":180},
+		{"id":"facf1af4f485b583","type":"file","file":"Motory/Interes.md","x":-260,"y":-460,"width":400,"height":174},
+		{"id":"c9803143f46dd219","type":"file","file":"Motory/Rad system.md","x":-434,"y":140,"width":574,"height":160},
+		{"id":"08cb4fd6450315aa","type":"file","file":"Motory/Motory.md","x":-900,"y":-460,"width":620,"height":100}
 	],
 	"edges":[]
 }
